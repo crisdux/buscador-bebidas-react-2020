@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+## Vista previa
+![poster1](./poster1.jpg)
+
+![poster2](./poster2.png)
+
+### Deploy [aqui](https://hopeful-babbage-0d99c9.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
